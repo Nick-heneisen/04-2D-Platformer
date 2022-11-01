@@ -1,6 +1,7 @@
-# Exercise-04c-Hide-and-Seek
+# 2D Platformer
+project for class, 11/1/2022
 
-The second exercise for the 2D Platformer project, exploring two enemy types.
+A simple 2D platformer in godot
 
 ## Implementation
 
